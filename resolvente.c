@@ -6,8 +6,8 @@ extern void CMAIN(float a, float b, float c);
 int main()
 {
   // printf("%d\n", add(2, 6));
-  float a = 15.3;
-  float b = 6;
+  float a = 6;
+  float b = 15.3;
   float c = 2;
   CMAIN(a, b, c);
   return 0;
