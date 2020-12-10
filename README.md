@@ -11,3 +11,7 @@ Este es el repositorio del TP-1 de la materia ORganización del Computador II, e
 ## Código en funcionamiento
 
 ![execution](images/resolvente.png)
+
+## Ejercicios Obligatorios
+
+Para ver las resoluciones de los ejercicios obligatorios haga click [aquí](prácticas/Prácticas.md).
