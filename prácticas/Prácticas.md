@@ -96,11 +96,11 @@ reemplazo FIFO (first-in , first-out).
 
 **A**
 
-![execution](../images/Práctica&#32;Gestión&#32;de&#32;Memoria&#32;-&#32;Punto&#32;7&#32;-&#32;Primera&#32;Parte.jpeg)
+![Primera Parte](../images/Práctica&#32;Gestión&#32;de&#32;Memoria&#32;-&#32;Punto&#32;7&#32;-&#32;Primera&#32;Parte.png)
 
 **B**
 
-![execution](../images/Práctica&#32;Gestión&#32;de&#32;Memoria&#32;-&#32;Punto&#32;7&#32;-&#32;Segunda&#32;Parte.jpeg)
+![Segunda Parte](../images/Práctica&#32;Gestión&#32;de&#32;Memoria&#32;-&#32;Punto&#32;7&#32;-&#32;Segunda&#32;Parte.png)
 
 # Práctica FPU
 
